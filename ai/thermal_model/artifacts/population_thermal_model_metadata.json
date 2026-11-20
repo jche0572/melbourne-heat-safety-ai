@@ -1,0 +1,38 @@
+{
+  "selected_model": "random_forest",
+  "selection_rule": "Using training out-of-fold predictions only: within 0.02 of best macro F1, then worst-city macro F1, then Brier score; choose simplest remaining model. Held-out test results are final evaluation only.",
+  "features": [
+    "temperature_c",
+    "relative_humidity"
+  ],
+  "target": "thermal_class_code",
+  "classes": {
+    "0": "OK",
+    "1": "Warm",
+    "2": "Too hot"
+  },
+  "population_scope": "Population model only; no personal calibration or personal bias.",
+  "random_state": 42,
+  "train_rows": 551,
+  "test_rows": 138,
+  "training_domain_limits": {
+    "temperature_c": {
+      "min": 17.8,
+      "max": 39.7
+    },
+    "relative_humidity": {
+      "min": 12.0,
+      "max": 87.2
+    }
+  },
+  "dataset_sha256": "d41fb222a649ca3eb07e7f8490e47e12316c1370aa0658c316dbb1698dd01e1f",
+  "trained_at_utc": "2026-10-01T13:01:37.443646+00:00",
+  "versions": {
+    "python": "3.12.4",
+    "numpy": "2.5.3",
+    "pandas": "3.0.6",
+    "scikit_learn": "1.9.1",
+    "statsmodels": "0.15.0",
+    "xgboost": "3.4.1"
+  }
+}

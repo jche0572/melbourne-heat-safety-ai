@@ -1,0 +1,44 @@
+# Ignore the data file for tree canopies in urban forests( too large to track in Git)
+data/tree-canopies-2021-urban-forest.geojson
+
+# Raw source data - Drinking Fountains
+data/drinking-fountains.csv
+
+# AWS RDS certificate
+global-bundle.pem
+
+# AWS Lambda deployment package
+lambda_uv_package/
+lambda_uv.zip
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Node.js dependencies
+**/node_modules/
+# AWS Lambda local build files
+lambda_package/
+shadeadapt-microclimate-lambda.zip
+
+# Python cache files
+**/__pycache__/
+*.pyc
+.venv/
+
+# macOS metadata
+.DS_Store
+
+# Hourly forecast Lambda local build files
+lambda_hourly_forecast_fetch_package/
+lambda_hourly_forecast_fetch.zip
+
+# Hourly forecast Lambda local build files
+lambda_hourly_forecast_package/
+lambda_hourly_forecast.zip
+shadeadapt-main.tar.gz
+
+**/build/
+**/dist/
+**/.expo/

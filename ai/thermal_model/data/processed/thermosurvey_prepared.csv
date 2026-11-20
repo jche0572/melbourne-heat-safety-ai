@@ -1,0 +1,690 @@
+nr,city,e7,temperature_c,relative_humidity,e3,thermal_class,thermal_class_code
+4,Warsaw,3,27.5,29.6,7,Warm,1
+5,Warsaw,3,23.5,37.7,6,Warm,1
+8,Warsaw,3,23.9,53.5,5,Not warm / OK,0
+9,Warsaw,3,27.8,36.6,5,Not warm / OK,0
+10,Warsaw,3,27.8,36.6,5,Not warm / OK,0
+24,Warsaw,3,27.2,57.6,7,Warm,1
+25,Warsaw,3,27.1,51.7,5,Not warm / OK,0
+27,Warsaw,3,25.0,70.8,5,Not warm / OK,0
+47,Warsaw,3,20.9,51.8,5,Not warm / OK,0
+53,Warsaw,3,22.1,50.2,5,Not warm / OK,0
+58,Warsaw,3,26.0,54.3,5,Not warm / OK,0
+61,Warsaw,3,24.9,46.0,5,Not warm / OK,0
+81,Warsaw,3,18.0,61.5,4,Not warm / OK,0
+87,Warsaw,3,18.5,60.2,5,Not warm / OK,0
+90,Warsaw,3,20.9,76.7,5,Not warm / OK,0
+98,Warsaw,3,22.3,55.2,4,Not warm / OK,0
+101,Warsaw,3,20.2,58.1,5,Not warm / OK,0
+115,Warsaw,3,22.8,53.0,5,Not warm / OK,0
+116,Warsaw,3,22.1,54.0,5,Not warm / OK,0
+117,Warsaw,3,23.6,52.6,5,Not warm / OK,0
+118,Warsaw,3,22.2,51.3,4,Not warm / OK,0
+123,Warsaw,3,21.7,52.5,4,Not warm / OK,0
+127,Warsaw,3,23.0,51.6,5,Not warm / OK,0
+130,Warsaw,3,19.7,62.9,5,Not warm / OK,0
+149,Warsaw,3,27.6,52.8,5,Not warm / OK,0
+151,Warsaw,3,31.8,35.6,8,Too hot,2
+152,Warsaw,3,37.5,52.8,6,Warm,1
+158,Warsaw,3,26.8,38.4,1,Not warm / OK,0
+160,Warsaw,3,29.0,42.1,5,Not warm / OK,0
+163,Warsaw,3,26.2,55.7,5,Not warm / OK,0
+167,Warsaw,3,22.6,44.7,6,Warm,1
+168,Warsaw,3,25.8,48.2,5,Not warm / OK,0
+169,Warsaw,3,24.9,50.7,5,Not warm / OK,0
+170,Warsaw,3,25.2,43.2,8,Too hot,2
+183,Warsaw,3,27.1,41.7,7,Warm,1
+187,Warsaw,3,26.9,35.1,5,Not warm / OK,0
+189,Warsaw,3,25.9,37.9,6,Warm,1
+191,Warsaw,3,30.0,35.5,7,Warm,1
+195,Warsaw,3,26.0,38.1,5,Not warm / OK,0
+197,Warsaw,3,23.8,39.5,6,Warm,1
+198,Warsaw,3,22.9,47.2,5,Not warm / OK,0
+202,Warsaw,3,21.4,42.5,4,Not warm / OK,0
+210,Warsaw,3,20.8,41.6,5,Not warm / OK,0
+220,Warsaw,3,22.4,37.4,5,Not warm / OK,0
+222,Warsaw,3,24.9,35.7,5,Not warm / OK,0
+223,Warsaw,3,22.7,40.4,5,Not warm / OK,0
+232,Warsaw,3,23.2,50.2,5,Not warm / OK,0
+242,Warsaw,3,20.8,50.3,5,Not warm / OK,0
+243,Warsaw,3,22.8,41.9,5,Not warm / OK,0
+262,Warsaw,3,23.8,50.5,5,Not warm / OK,0
+266,Warsaw,3,24.5,46.2,7,Warm,1
+268,Warsaw,3,26.8,49.1,7,Warm,1
+272,Warsaw,3,24.0,43.9,5,Not warm / OK,0
+273,Warsaw,3,24.0,45.1,5,Not warm / OK,0
+276,Warsaw,3,24.4,48.9,5,Not warm / OK,0
+277,Warsaw,3,24.9,44.7,7,Warm,1
+278,Warsaw,3,25.6,42.6,7,Warm,1
+280,Warsaw,3,29.6,37.8,7,Warm,1
+281,Warsaw,3,26.5,44.2,7,Warm,1
+282,Warsaw,3,29.8,38.3,7,Warm,1
+284,Warsaw,3,29.6,39.2,7,Warm,1
+290,Warsaw,3,28.0,40.3,5,Not warm / OK,0
+293,Warsaw,3,28.7,42.0,5,Not warm / OK,0
+295,Warsaw,3,28.6,40.5,5,Not warm / OK,0
+296,Warsaw,3,29.1,42.5,7,Warm,1
+297,Warsaw,3,30.8,34.6,7,Warm,1
+299,Warsaw,3,30.0,36.9,7,Warm,1
+303,Warsaw,3,31.9,38.6,6,Warm,1
+305,Warsaw,3,30.4,35.1,8,Too hot,2
+306,Warsaw,3,32.1,34.2,6,Warm,1
+308,Warsaw,3,30.9,33.6,5,Not warm / OK,0
+312,Warsaw,3,27.1,40.6,5,Not warm / OK,0
+313,Warsaw,3,25.3,47.6,5,Not warm / OK,0
+314,Warsaw,3,27.5,38.2,6,Warm,1
+315,Warsaw,3,30.4,35.1,7,Warm,1
+316,Warsaw,3,32.2,37.0,6,Warm,1
+318,Warsaw,3,32.8,32.2,8,Too hot,2
+319,Warsaw,3,27.8,45.1,8,Too hot,2
+320,Warsaw,3,30.7,36.1,8,Too hot,2
+321,Warsaw,3,31.2,35.1,9,Too hot,2
+324,Warsaw,3,30.3,38.2,8,Too hot,2
+325,Warsaw,3,28.4,42.0,7,Warm,1
+330,Warsaw,3,27.3,45.5,7,Warm,1
+331,Warsaw,3,28.2,46.8,5,Not warm / OK,0
+333,Warsaw,3,31.3,43.0,7,Warm,1
+337,Warsaw,3,26.0,50.2,6,Warm,1
+338,Warsaw,3,39.7,45.8,5,Not warm / OK,0
+339,Warsaw,3,28.2,51.8,6,Warm,1
+351,Warsaw,3,23.8,55.6,6,Warm,1
+352,Warsaw,3,24.1,53.2,5,Not warm / OK,0
+356,Warsaw,3,23.7,52.6,6,Warm,1
+357,Warsaw,3,27.9,41.9,7,Warm,1
+358,Warsaw,3,28.8,40.7,7,Warm,1
+359,Warsaw,3,29.0,40.1,8,Too hot,2
+360,Warsaw,3,38.9,40.2,8,Too hot,2
+361,Warsaw,3,29.0,46.2,7,Warm,1
+362,Warsaw,3,33.5,34.2,8,Too hot,2
+363,Warsaw,3,33.4,34.2,8,Too hot,2
+364,Warsaw,3,27.7,44.4,5,Not warm / OK,0
+366,Warsaw,3,25.8,51.0,8,Too hot,2
+372,Warsaw,3,26.4,45.6,6,Warm,1
+374,Warsaw,3,26.7,51.7,5,Not warm / OK,0
+377,Warsaw,3,27.1,62.2,7,Warm,1
+379,Warsaw,3,26.2,53.5,5,Not warm / OK,0
+380,Warsaw,3,24.7,56.7,5,Not warm / OK,0
+382,Warsaw,3,23.7,74.3,4,Not warm / OK,0
+383,Warsaw,3,25.5,43.2,5,Not warm / OK,0
+384,Warsaw,3,31.5,43.4,6,Warm,1
+385,Warsaw,3,26.2,45.5,5,Not warm / OK,0
+386,Warsaw,3,25.1,43.1,6,Warm,1
+387,Warsaw,3,24.6,44.8,5,Not warm / OK,0
+390,Warsaw,3,22.8,46.0,5,Not warm / OK,0
+391,Warsaw,3,29.4,30.9,7,Warm,1
+392,Warsaw,3,25.2,36.0,6,Warm,1
+394,Warsaw,3,25.3,38.1,5,Not warm / OK,0
+395,Warsaw,3,34.5,24.0,8,Too hot,2
+396,Warsaw,3,25.9,39.8,6,Warm,1
+399,Warsaw,3,25.8,43.0,5,Not warm / OK,0
+417,Warsaw,3,25.8,42.7,6,Warm,1
+420,Warsaw,3,26.2,43.6,5,Not warm / OK,0
+423,Warsaw,3,29.8,41.9,5,Not warm / OK,0
+426,Warsaw,3,28.3,37.2,6,Warm,1
+428,Warsaw,3,25.2,39.4,5,Not warm / OK,0
+429,Warsaw,3,26.2,40.3,5,Not warm / OK,0
+431,Warsaw,3,25.1,41.5,5,Not warm / OK,0
+438,Warsaw,3,24.8,53.0,7,Warm,1
+455,Warsaw,3,24.2,51.0,5,Not warm / OK,0
+456,Warsaw,3,23.9,53.2,5,Not warm / OK,0
+457,Warsaw,3,24.0,54.1,5,Not warm / OK,0
+458,Warsaw,3,24.5,50.7,5,Not warm / OK,0
+459,Warsaw,3,24.3,57.8,5,Not warm / OK,0
+460,Warsaw,3,27.2,47.2,5,Not warm / OK,0
+465,Warsaw,3,26.4,47.3,5,Not warm / OK,0
+466,Warsaw,3,27.4,45.8,7,Warm,1
+467,Warsaw,3,28.1,41.5,7,Warm,1
+468,Warsaw,3,29.1,40.7,7,Warm,1
+470,Warsaw,3,31.1,42.8,7,Warm,1
+471,Warsaw,3,28.1,46.5,7,Warm,1
+473,Warsaw,3,28.6,44.7,7,Warm,1
+475,Warsaw,3,27.2,50.3,7,Warm,1
+477,Warsaw,3,27.0,51.2,7,Warm,1
+479,Warsaw,3,29.1,43.9,7,Warm,1
+484,Warsaw,3,23.7,70.2,5,Not warm / OK,0
+485,Warsaw,3,21.9,71.2,5,Not warm / OK,0
+490,Warsaw,3,27.0,50.7,5,Not warm / OK,0
+491,Warsaw,3,29.0,44.3,5,Not warm / OK,0
+492,Warsaw,3,27.3,51.2,5,Not warm / OK,0
+494,Warsaw,3,29.1,48.2,8,Too hot,2
+495,Warsaw,3,28.3,46.5,8,Too hot,2
+497,Warsaw,3,26.9,51.8,6,Warm,1
+498,Warsaw,3,28.5,46.6,7,Warm,1
+502,Warsaw,3,30.5,44.4,6,Warm,1
+516,Warsaw,3,31.5,41.5,8,Too hot,2
+518,Warsaw,3,29.2,42.1,5,Not warm / OK,0
+519,Warsaw,3,31.4,40.1,5,Not warm / OK,0
+520,Warsaw,3,29.7,41.4,7,Warm,1
+521,Warsaw,3,30.6,41.7,8,Too hot,2
+522,Warsaw,3,34.7,32.8,5,Not warm / OK,0
+525,Warsaw,3,28.4,43.1,6,Warm,1
+526,Warsaw,3,27.5,41.1,7,Warm,1
+527,Warsaw,3,27.5,52.2,5,Not warm / OK,0
+528,Warsaw,3,29.0,40.0,5,Not warm / OK,0
+529,Warsaw,3,28.8,56.1,7,Warm,1
+530,Warsaw,3,30.6,45.6,5,Not warm / OK,0
+557,Warsaw,3,31.9,47.1,9,Too hot,2
+569,Warsaw,3,25.1,63.3,5,Not warm / OK,0
+570,Warsaw,3,22.3,55.2,5,Not warm / OK,0
+572,Warsaw,3,24.5,54.5,5,Not warm / OK,0
+584,Warsaw,3,27.1,36.1,6,Warm,1
+586,Warsaw,3,26.0,26.7,6,Warm,1
+587,Warsaw,3,27.8,36.8,6,Warm,1
+589,Warsaw,3,26.4,36.8,5,Not warm / OK,0
+590,Warsaw,3,24.8,48.4,5,Not warm / OK,0
+591,Warsaw,3,26.4,35.9,7,Warm,1
+602,Warsaw,3,24.8,43.9,5,Not warm / OK,0
+603,Warsaw,3,26.8,39.8,5,Not warm / OK,0
+608,Warsaw,3,22.5,55.1,4,Not warm / OK,0
+610,Warsaw,3,25.7,48.0,5,Not warm / OK,0
+613,Warsaw,3,25.9,45.0,5,Not warm / OK,0
+614,Warsaw,3,23.9,50.1,5,Not warm / OK,0
+615,Warsaw,3,26.7,42.2,6,Warm,1
+618,Warsaw,3,24.7,49.0,5,Not warm / OK,0
+620,Warsaw,3,30.8,36.4,7,Warm,1
+621,Warsaw,3,28.1,37.2,5,Not warm / OK,0
+623,Warsaw,3,24.6,47.7,5,Not warm / OK,0
+625,Warsaw,3,27.0,42.4,5,Not warm / OK,0
+626,Warsaw,3,21.7,52.5,4,Not warm / OK,0
+627,Warsaw,3,37.5,52.8,6,Warm,1
+629,Warsaw,3,30.0,36.9,8,Too hot,2
+630,Warsaw,3,22.8,57.4,5,Not warm / OK,0
+631,Warsaw,3,24.3,54.1,5,Not warm / OK,0
+634,Warsaw,3,31.9,47.1,6,Warm,1
+636,Warsaw,3,26.4,39.9,5,Not warm / OK,0
+637,Warsaw,3,28.0,39.4,5,Not warm / OK,0
+639,Warsaw,3,26.2,60.8,5,Not warm / OK,0
+640,Warsaw,3,25.3,65.1,5,Not warm / OK,0
+641,Warsaw,3,26.0,61.8,6,Warm,1
+642,Warsaw,3,27.9,56.4,5,Not warm / OK,0
+644,Warsaw,3,26.7,58.7,5,Not warm / OK,0
+645,Warsaw,3,28.1,56.9,6,Warm,1
+646,Warsaw,3,27.5,58.0,5,Not warm / OK,0
+647,Warsaw,3,27.1,60.8,6,Warm,1
+648,Warsaw,3,28.0,62.7,5,Not warm / OK,0
+649,Warsaw,3,29.8,61.2,5,Not warm / OK,0
+650,Warsaw,3,27.8,58.4,5,Not warm / OK,0
+651,Warsaw,3,29.4,56.9,8,Too hot,2
+652,Warsaw,3,30.5,68.2,5,Not warm / OK,0
+653,Warsaw,3,31.7,68.2,5,Not warm / OK,0
+654,Warsaw,3,29.1,58.9,6,Warm,1
+657,Warsaw,3,26.4,66.6,6,Warm,1
+660,Warsaw,3,28.2,57.7,7,Warm,1
+661,Warsaw,3,28.1,58.4,7,Warm,1
+662,Warsaw,3,29.2,53.2,8,Too hot,2
+664,Warsaw,3,34.7,44.2,8,Too hot,2
+665,Warsaw,3,29.3,50.4,8,Too hot,2
+666,Warsaw,3,29.2,53.8,7,Warm,1
+667,Warsaw,3,30.7,46.9,8,Too hot,2
+669,Warsaw,3,31.7,54.8,8,Too hot,2
+671,Warsaw,3,28.8,53.1,7,Warm,1
+673,Warsaw,3,32.4,58.5,8,Too hot,2
+679,Warsaw,3,26.8,59.7,6,Warm,1
+680,Warsaw,3,28.6,52.4,7,Warm,1
+681,Warsaw,3,27.4,55.5,6,Warm,1
+682,Warsaw,3,28.3,58.9,7,Warm,1
+683,Warsaw,3,32.0,47.2,6,Warm,1
+684,Warsaw,3,29.8,52.4,7,Warm,1
+685,Warsaw,3,30.4,48.6,6,Warm,1
+686,Warsaw,3,30.4,50.2,7,Warm,1
+687,Warsaw,3,31.2,47.9,8,Too hot,2
+688,Warsaw,3,31.2,48.0,7,Warm,1
+689,Warsaw,3,30.5,51.7,7,Warm,1
+690,Warsaw,3,33.1,46.2,8,Too hot,2
+692,Warsaw,3,28.5,58.8,5,Not warm / OK,0
+693,Warsaw,3,29.6,56.4,7,Warm,1
+694,Warsaw,3,29.2,53.3,6,Warm,1
+696,Warsaw,3,30.6,50.7,6,Warm,1
+697,Warsaw,3,33.6,44.2,7,Warm,1
+698,Warsaw,3,37.1,39.8,8,Too hot,2
+699,Warsaw,3,30.7,55.6,5,Not warm / OK,0
+701,Warsaw,3,30.8,50.1,6,Warm,1
+702,Warsaw,3,33.0,41.2,7,Warm,1
+703,Warsaw,3,36.7,39.0,7,Warm,1
+704,Warsaw,3,33.0,43.7,8,Too hot,2
+705,Warsaw,3,30.9,45.8,8,Too hot,2
+710,Warsaw,3,27.3,58.3,5,Not warm / OK,0
+714,Warsaw,3,28.6,52.8,6,Warm,1
+716,Warsaw,3,31.5,47.6,8,Too hot,2
+720,Warsaw,3,28.2,55.7,7,Warm,1
+722,Warsaw,3,27.2,61.3,5,Not warm / OK,0
+732,Warsaw,3,27.9,54.5,7,Warm,1
+733,Warsaw,3,29.6,52.1,8,Too hot,2
+735,Warsaw,3,29.7,48.8,8,Too hot,2
+736,Warsaw,3,27.4,55.7,7,Warm,1
+737,Warsaw,3,27.5,52.3,7,Warm,1
+740,Warsaw,3,26.8,55.5,5,Not warm / OK,0
+742,Warsaw,3,27.2,53.8,6,Warm,1
+743,Warsaw,3,24.5,64.4,5,Not warm / OK,0
+744,Warsaw,3,25.0,56.8,5,Not warm / OK,0
+747,Warsaw,3,25.9,60.2,5,Not warm / OK,0
+752,Warsaw,3,27.8,54.5,7,Warm,1
+755,Warsaw,3,26.5,55.1,5,Not warm / OK,0
+762,Warsaw,3,28.3,64.2,7,Warm,1
+763,Warsaw,3,30.5,62.3,7,Warm,1
+765,Warsaw,3,31.5,54.5,7,Warm,1
+766,Warsaw,3,32.3,52.0,7,Warm,1
+768,Warsaw,3,29.9,59.1,7,Warm,1
+769,Warsaw,3,29.8,54.0,7,Warm,1
+770,Warsaw,3,30.2,54.2,7,Warm,1
+771,Warsaw,3,30.3,51.7,7,Warm,1
+773,Warsaw,3,28.9,52.5,8,Too hot,2
+774,Warsaw,3,26.6,58.4,6,Warm,1
+777,Warsaw,3,25.6,67.1,7,Warm,1
+784,Warsaw,3,27.8,61.0,7,Warm,1
+785,Warsaw,3,29.1,55.9,6,Warm,1
+786,Warsaw,3,28.8,54.7,6,Warm,1
+789,Warsaw,3,30.4,50.6,7,Warm,1
+791,Warsaw,3,28.4,61.8,6,Warm,1
+792,Warsaw,3,30.6,51.3,7,Warm,1
+793,Warsaw,3,31.0,53.1,7,Warm,1
+794,Warsaw,3,30.5,52.5,7,Warm,1
+795,Warsaw,3,30.5,50.8,7,Warm,1
+796,Warsaw,3,32.5,52.1,6,Warm,1
+797,Warsaw,3,30.4,54.3,7,Warm,1
+798,Warsaw,3,30.7,52.6,7,Warm,1
+799,Warsaw,3,29.3,55.6,7,Warm,1
+803,Warsaw,3,28.9,51.8,5,Not warm / OK,0
+816,Warsaw,3,29.1,49.7,8,Too hot,2
+817,Warsaw,3,30.1,48.2,8,Too hot,2
+818,Warsaw,3,30.8,38.9,8,Too hot,2
+819,Warsaw,3,32.3,35.2,9,Too hot,2
+820,Warsaw,3,33.1,31.8,8,Too hot,2
+821,Warsaw,3,33.2,29.3,8,Too hot,2
+823,Warsaw,3,32.1,32.6,8,Too hot,2
+826,Warsaw,3,32.1,33.8,8,Too hot,2
+827,Warsaw,3,31.7,31.9,7,Warm,1
+828,Warsaw,3,31.5,34.6,7,Warm,1
+829,Warsaw,3,33.1,27.4,8,Too hot,2
+836,Warsaw,3,30.5,37.6,7,Warm,1
+846,Warsaw,3,28.5,42.9,7,Warm,1
+849,Warsaw,3,30.2,39.1,7,Warm,1
+854,Warsaw,3,34.4,30.6,7,Warm,1
+856,Warsaw,3,33.0,27.2,7,Warm,1
+857,Warsaw,3,32.0,30.9,6,Warm,1
+858,Warsaw,3,32.1,31.8,8,Too hot,2
+859,Warsaw,3,30.8,32.3,7,Warm,1
+861,Warsaw,3,31.3,34.4,7,Warm,1
+862,Warsaw,3,34.8,29.2,8,Too hot,2
+863,Warsaw,3,30.8,32.0,6,Warm,1
+864,Warsaw,3,33.0,29.3,8,Too hot,2
+869,Warsaw,3,28.4,40.1,5,Not warm / OK,0
+878,Warsaw,3,31.1,37.5,5,Not warm / OK,0
+881,Warsaw,3,31.5,33.9,6,Warm,1
+883,Warsaw,3,32.2,32.5,7,Warm,1
+885,Warsaw,3,32.5,34.0,5,Not warm / OK,0
+887,Warsaw,3,30.8,33.8,7,Warm,1
+892,Warsaw,3,27.2,42.7,6,Warm,1
+898,Warsaw,3,29.9,45.3,8,Too hot,2
+900,Warsaw,3,33.5,38.9,8,Too hot,2
+903,Warsaw,3,27.9,58.5,7,Warm,1
+905,Warsaw,3,28.5,58.2,5,Not warm / OK,0
+910,Warsaw,3,27.5,51.4,5,Not warm / OK,0
+911,Warsaw,3,27.0,45.0,5,Not warm / OK,0
+912,Warsaw,3,24.9,46.5,5,Not warm / OK,0
+914,Warsaw,3,23.5,53.4,6,Warm,1
+916,Warsaw,3,24.1,46.4,5,Not warm / OK,0
+918,Warsaw,3,27.4,37.1,5,Not warm / OK,0
+927,Warsaw,3,22.8,48.6,5,Not warm / OK,0
+928,Warsaw,3,22.1,54.0,5,Not warm / OK,0
+937,Warsaw,3,22.8,59.7,5,Not warm / OK,0
+938,Warsaw,3,21.3,64.4,5,Not warm / OK,0
+941,Warsaw,3,22.8,56.8,5,Not warm / OK,0
+943,Warsaw,3,20.4,63.5,5,Not warm / OK,0
+944,Warsaw,3,20.4,65.2,5,Not warm / OK,0
+945,Warsaw,3,21.2,64.1,5,Not warm / OK,0
+947,Warsaw,3,20.0,67.7,4,Not warm / OK,0
+952,Warsaw,3,25.2,52.4,5,Not warm / OK,0
+960,Warsaw,3,23.0,40.5,5,Not warm / OK,0
+961,Warsaw,3,23.1,40.0,5,Not warm / OK,0
+962,Warsaw,3,23.7,39.0,5,Not warm / OK,0
+965,Warsaw,3,21.2,47.0,5,Not warm / OK,0
+972,Warsaw,3,20.6,41.9,5,Not warm / OK,0
+975,Warsaw,3,26.1,36.8,5,Not warm / OK,0
+980,Warsaw,3,25.2,26.1,5,Not warm / OK,0
+983,Warsaw,3,21.3,38.6,5,Not warm / OK,0
+986,Warsaw,3,23.7,35.5,5,Not warm / OK,0
+987,Warsaw,3,22.5,34.4,4,Not warm / OK,0
+988,Warsaw,3,20.5,38.8,5,Not warm / OK,0
+995,Warsaw,3,22.6,29.6,5,Not warm / OK,0
+1036,Warsaw,3,22.3,28.6,3,Not warm / OK,0
+1037,Warsaw,3,34.5,15.2,5,Not warm / OK,0
+1041,Warsaw,3,25.0,30.9,5,Not warm / OK,0
+1053,Madrid,3,29.8,42.1,8,Too hot,2
+1057,Madrid,3,26.5,51.2,7,Warm,1
+1072,Madrid,3,33.4,28.1,7,Warm,1
+1075,Madrid,3,31.4,35.1,8,Too hot,2
+1076,Madrid,3,35.7,23.7,8,Too hot,2
+1077,Madrid,3,36.8,24.3,8,Too hot,2
+1078,Madrid,3,32.0,34.1,8,Too hot,2
+1079,Madrid,3,26.0,15.0,7,Warm,1
+1083,Madrid,3,27.3,45.6,8,Too hot,2
+1085,Madrid,3,32.4,35.3,9,Too hot,2
+1087,Madrid,3,32.4,27.5,8,Too hot,2
+1098,Madrid,3,32.2,24.6,9,Too hot,2
+1101,Madrid,3,33.8,16.7,7,Warm,1
+1114,Madrid,3,36.5,50.9,7,Warm,1
+1115,Madrid,3,32.2,26.8,8,Too hot,2
+1116,Madrid,3,31.8,29.4,9,Too hot,2
+1118,Madrid,3,25.2,31.3,7,Warm,1
+1126,Madrid,3,28.9,32.8,8,Too hot,2
+1128,Madrid,3,37.9,47.5,9,Too hot,2
+1139,Madrid,3,36.5,23.7,8,Too hot,2
+1141,Madrid,3,31.2,22.0,7,Warm,1
+1149,Madrid,3,26.5,35.5,8,Too hot,2
+1150,Madrid,3,31.4,18.4,6,Warm,1
+1151,Madrid,3,30.5,16.9,5,Not warm / OK,0
+1152,Madrid,3,31.8,29.0,6,Warm,1
+1156,Madrid,3,26.8,31.2,5,Not warm / OK,0
+1191,Madrid,3,33.9,25.3,7,Warm,1
+1192,Madrid,3,30.0,31.8,6,Warm,1
+1193,Madrid,3,37.5,19.0,9,Too hot,2
+1205,Madrid,3,29.6,41.0,6,Warm,1
+1208,Madrid,3,33.2,24.6,6,Warm,1
+1210,Madrid,3,32.5,24.3,5,Not warm / OK,0
+1217,Madrid,3,38.5,27.0,9,Too hot,2
+1226,Madrid,3,38.2,25.0,9,Too hot,2
+1227,Madrid,3,39.2,24.0,9,Too hot,2
+1245,Madrid,3,36.5,22.0,9,Too hot,2
+1247,Madrid,3,33.5,18.7,6,Warm,1
+1249,Madrid,3,32.0,19.2,6,Warm,1
+1250,Madrid,3,29.0,15.0,7,Warm,1
+1251,Madrid,3,29.9,12.0,9,Too hot,2
+1277,Madrid,3,34.0,17.0,8,Too hot,2
+1285,Madrid,3,34.2,27.0,8,Too hot,2
+1287,Madrid,3,32.4,27.2,5,Not warm / OK,0
+1299,Madrid,3,30.9,28.8,7,Warm,1
+1304,Madrid,3,32.6,34.4,7,Warm,1
+1305,Madrid,3,33.6,29.7,7,Warm,1
+1306,Madrid,3,33.5,25.8,7,Warm,1
+1307,Madrid,3,34.6,23.3,9,Too hot,2
+1308,Madrid,3,30.2,25.6,8,Too hot,2
+1309,Madrid,3,28.7,27.1,7,Warm,1
+1337,Madrid,3,32.0,21.0,9,Too hot,2
+1338,Madrid,3,32.1,21.8,9,Too hot,2
+1350,Madrid,3,37.2,25.5,8,Too hot,2
+1351,Madrid,3,36.3,27.4,8,Too hot,2
+1352,Madrid,3,35.3,22.0,8,Too hot,2
+1353,Madrid,3,37.2,31.0,8,Too hot,2
+1354,Madrid,3,34.5,23.0,8,Too hot,2
+1370,Madrid,3,30.7,34.4,8,Too hot,2
+1373,Madrid,3,30.1,43.0,8,Too hot,2
+1374,Madrid,3,38.1,19.0,9,Too hot,2
+1384,Madrid,3,27.0,45.0,6,Warm,1
+1385,Madrid,3,32.5,27.0,8,Too hot,2
+1389,Madrid,3,35.2,18.5,9,Too hot,2
+1390,Madrid,3,30.3,28.3,9,Too hot,2
+1391,Madrid,3,32.0,40.0,9,Too hot,2
+1392,Madrid,3,31.1,24.3,9,Too hot,2
+1393,Madrid,3,31.3,23.1,9,Too hot,2
+1399,Madrid,3,35.6,22.7,9,Too hot,2
+1400,Madrid,3,31.0,23.0,9,Too hot,2
+1401,Madrid,3,31.0,23.0,9,Too hot,2
+1402,Madrid,3,31.1,23.3,9,Too hot,2
+1405,Madrid,3,36.4,25.3,5,Not warm / OK,0
+1406,Madrid,3,29.9,37.0,7,Warm,1
+1407,Madrid,3,29.5,35.6,7,Warm,1
+1408,Madrid,3,31.4,33.2,7,Warm,1
+1410,Madrid,3,21.4,36.8,8,Too hot,2
+1411,Madrid,3,34.5,21.0,9,Too hot,2
+1412,Madrid,3,37.8,21.0,9,Too hot,2
+1415,Madrid,3,37.6,21.0,9,Too hot,2
+1479,Madrid,3,26.9,25.3,5,Not warm / OK,0
+1480,Madrid,3,28.9,22.0,6,Warm,1
+1481,Madrid,3,28.7,24.0,6,Warm,1
+1490,Madrid,3,37.8,19.0,9,Too hot,2
+1491,Madrid,3,29.4,23.3,7,Warm,1
+1510,Madrid,3,38.5,19.0,9,Too hot,2
+1511,Madrid,3,27.4,41.3,5,Not warm / OK,0
+1512,Madrid,3,29.3,36.0,4,Not warm / OK,0
+1518,Madrid,3,38.2,17.0,9,Too hot,2
+1519,Madrid,3,37.3,17.6,9,Too hot,2
+1522,Madrid,3,33.5,17.8,8,Too hot,2
+1523,Madrid,3,33.4,18.0,8,Too hot,2
+1524,Madrid,3,29.7,32.4,5,Not warm / OK,0
+1525,Madrid,3,34.7,17.0,9,Too hot,2
+1526,Madrid,3,31.2,30.0,8,Too hot,2
+1529,Madrid,3,36.7,16.0,9,Too hot,2
+1531,Madrid,3,36.5,17.3,8,Too hot,2
+1533,Madrid,3,34.8,18.6,9,Too hot,2
+1535,Madrid,3,35.7,18.3,8,Too hot,2
+1536,Madrid,3,35.6,17.0,8,Too hot,2
+1538,Madrid,3,35.6,18.5,9,Too hot,2
+1540,Madrid,3,34.5,21.4,9,Too hot,2
+1541,Madrid,3,29.8,27.3,8,Too hot,2
+1542,Madrid,3,30.8,25.3,8,Too hot,2
+1543,Madrid,3,31.0,35.0,8,Too hot,2
+1544,Madrid,3,33.3,30.6,7,Warm,1
+1545,Madrid,3,36.7,22.5,9,Too hot,2
+1546,Madrid,3,36.9,21.0,8,Too hot,2
+1548,Madrid,3,35.6,16.0,9,Too hot,2
+1550,Madrid,3,31.0,33.4,8,Too hot,2
+1551,Madrid,3,33.5,30.6,6,Warm,1
+1553,Madrid,3,28.3,21.0,7,Warm,1
+1554,Madrid,3,27.7,25.0,7,Warm,1
+1555,Madrid,3,29.6,34.9,5,Not warm / OK,0
+1556,Madrid,3,30.4,21.2,7,Warm,1
+1557,Madrid,3,32.3,30.4,6,Warm,1
+1561,Madrid,3,32.1,29.3,5,Not warm / OK,0
+1568,Madrid,3,34.9,25.2,8,Too hot,2
+1569,Madrid,3,33.8,28.4,9,Too hot,2
+1571,Madrid,3,32.9,27.1,8,Too hot,2
+1572,Madrid,3,33.1,27.0,9,Too hot,2
+1573,Madrid,3,36.3,24.0,9,Too hot,2
+1574,Madrid,3,37.2,24.6,9,Too hot,2
+1575,Madrid,3,31.0,28.8,7,Warm,1
+1576,Madrid,3,37.2,24.5,9,Too hot,2
+1579,Madrid,3,33.9,37.0,8,Too hot,2
+1581,Madrid,3,34.2,38.4,8,Too hot,2
+1582,Madrid,3,35.7,20.3,8,Too hot,2
+1584,Madrid,3,35.0,26.0,9,Too hot,2
+1587,Madrid,3,34.7,25.0,9,Too hot,2
+1591,Madrid,3,33.8,30.8,9,Too hot,2
+1593,Madrid,3,31.5,34.4,8,Too hot,2
+1594,Madrid,3,34.1,29.1,7,Warm,1
+1596,Madrid,3,32.1,37.1,6,Warm,1
+1597,Madrid,3,34.2,33.1,8,Too hot,2
+1598,Madrid,3,35.1,24.2,9,Too hot,2
+1600,Madrid,3,30.2,23.2,9,Too hot,2
+1606,Madrid,3,30.0,24.0,6,Warm,1
+1608,Madrid,3,31.2,19.0,8,Too hot,2
+1609,Madrid,3,33.4,24.0,9,Too hot,2
+1611,Madrid,3,35.4,23.2,9,Too hot,2
+1612,Madrid,3,35.2,21.0,9,Too hot,2
+1614,Madrid,3,27.4,29.0,5,Not warm / OK,0
+1615,Madrid,3,29.6,38.0,5,Not warm / OK,0
+1618,Madrid,3,25.5,49.3,5,Not warm / OK,0
+1619,Madrid,3,23.2,38.0,5,Not warm / OK,0
+1622,Madrid,3,28.6,27.4,8,Too hot,2
+1625,Madrid,3,31.0,18.9,4,Not warm / OK,0
+1626,Madrid,3,33.2,24.0,8,Too hot,2
+1627,Madrid,3,28.2,28.3,8,Too hot,2
+1631,Madrid,3,28.5,23.0,6,Warm,1
+1632,Madrid,3,29.0,22.0,5,Not warm / OK,0
+1634,Madrid,3,31.4,20.7,5,Not warm / OK,0
+1635,Madrid,3,32.2,24.3,6,Warm,1
+1639,Madrid,3,30.9,22.5,8,Too hot,2
+1640,Madrid,3,31.1,23.2,7,Warm,1
+1644,Madrid,3,27.2,30.0,5,Not warm / OK,0
+1646,Madrid,3,29.0,23.0,5,Not warm / OK,0
+1648,Madrid,3,28.0,24.0,6,Warm,1
+1649,Madrid,3,30.0,28.4,5,Not warm / OK,0
+1656,Madrid,3,29.1,30.8,5,Not warm / OK,0
+1679,Madrid,3,29.2,32.2,6,Warm,1
+1680,Madrid,3,28.2,27.6,6,Warm,1
+1685,Madrid,3,28.2,28.2,6,Warm,1
+1686,Madrid,3,25.8,27.0,5,Not warm / OK,0
+1691,Madrid,3,30.1,26.0,6,Warm,1
+1692,Madrid,3,17.0,61.0,4,Not warm / OK,0
+1693,Madrid,3,18.0,65.0,4,Not warm / OK,0
+1697,Madrid,3,17.8,61.1,5,Not warm / OK,0
+1699,Madrid,3,19.2,48.5,5,Not warm / OK,0
+1706,Madrid,3,22.1,41.2,5,Not warm / OK,0
+1708,Madrid,3,27.1,29.4,5,Not warm / OK,0
+1716,Madrid,3,28.1,29.4,7,Warm,1
+1726,Madrid,3,32.9,24.2,8,Too hot,2
+1730,Madrid,3,32.8,23.2,8,Too hot,2
+1731,Madrid,3,32.6,24.2,8,Too hot,2
+1733,Madrid,3,33.2,23.2,8,Too hot,2
+1734,Madrid,3,18.4,52.4,4,Not warm / OK,0
+1740,Madrid,3,22.7,43.2,6,Warm,1
+1748,Madrid,3,31.8,19.2,7,Warm,1
+1777,Madrid,3,30.3,25.1,8,Too hot,2
+1785,Madrid,3,30.7,24.5,8,Too hot,2
+1798,Madrid,3,35.4,26.3,8,Too hot,2
+1799,Madrid,3,23.2,48.2,6,Warm,1
+1810,Madrid,3,31.7,33.2,7,Warm,1
+1819,Madrid,3,33.7,26.3,8,Too hot,2
+1822,Madrid,3,31.2,27.4,8,Too hot,2
+1824,Madrid,3,32.1,25.6,7,Warm,1
+1829,Madrid,3,28.2,29.4,8,Too hot,2
+1832,Madrid,3,31.3,25.7,8,Too hot,2
+1840,Madrid,3,29.6,42.1,5,Not warm / OK,0
+1850,Madrid,3,32.5,26.3,8,Too hot,2
+1858,Madrid,3,30.5,39.8,8,Too hot,2
+1874,Madrid,3,34.4,29.3,9,Too hot,2
+1888,Madrid,3,35.4,23.7,9,Too hot,2
+1892,Madrid,3,35.4,21.3,9,Too hot,2
+1899,Madrid,3,26.2,34.7,8,Too hot,2
+1901,Madrid,3,26.1,30.5,5,Not warm / OK,0
+1910,Madrid,3,28.4,27.2,5,Not warm / OK,0
+1911,Madrid,3,27.7,30.8,5,Not warm / OK,0
+1912,Madrid,3,27.1,30.8,5,Not warm / OK,0
+1913,Madrid,3,28.8,26.6,5,Not warm / OK,0
+1914,Madrid,3,27.6,28.0,5,Not warm / OK,0
+1916,Madrid,3,27.4,29.2,5,Not warm / OK,0
+1918,Madrid,3,27.1,29.3,5,Not warm / OK,0
+1920,Madrid,3,30.5,25.8,5,Not warm / OK,0
+1921,Madrid,3,24.8,31.3,4,Not warm / OK,0
+1924,Madrid,3,31.4,22.5,8,Too hot,2
+1926,Madrid,3,30.0,24.5,5,Not warm / OK,0
+1928,Madrid,3,25.2,30.8,5,Not warm / OK,0
+1929,Madrid,3,32.3,19.4,8,Too hot,2
+1930,Madrid,3,28.1,27.5,5,Not warm / OK,0
+1931,Madrid,3,31.2,25.0,6,Warm,1
+1932,Madrid,3,33.9,18.9,8,Too hot,2
+1933,Madrid,3,32.8,21.5,6,Warm,1
+1943,Madrid,3,30.4,44.7,6,Warm,1
+1945,Madrid,3,33.4,35.5,7,Warm,1
+1948,Madrid,3,36.5,23.4,7,Warm,1
+1949,Madrid,3,34.1,25.3,8,Too hot,2
+1950,Madrid,3,34.5,24.1,9,Too hot,2
+1951,Madrid,3,29.4,38.1,7,Warm,1
+1952,Madrid,3,28.4,34.9,7,Warm,1
+1954,Madrid,3,31.7,40.6,6,Warm,1
+1956,Madrid,3,31.7,35.8,6,Warm,1
+1957,Madrid,3,33.5,31.9,7,Warm,1
+1958,Madrid,3,38.6,26.7,9,Too hot,2
+1959,Madrid,3,32.3,33.1,8,Too hot,2
+1960,Madrid,3,32.1,33.2,8,Too hot,2
+1961,Madrid,3,30.6,36.5,6,Warm,1
+1965,Madrid,3,29.0,43.5,5,Not warm / OK,0
+1966,Madrid,3,30.6,40.1,7,Warm,1
+1967,Madrid,3,33.3,37.7,7,Warm,1
+1968,Madrid,3,29.8,41.8,5,Not warm / OK,0
+1969,Madrid,3,32.2,33.4,5,Not warm / OK,0
+1970,Madrid,3,31.7,35.1,8,Too hot,2
+1971,Madrid,3,32.0,35.6,7,Warm,1
+1973,Madrid,3,30.2,36.8,5,Not warm / OK,0
+1977,Madrid,3,29.5,37.5,7,Warm,1
+1984,Madrid,3,31.9,38.2,7,Warm,1
+1987,Madrid,3,33.7,29.1,6,Warm,1
+1988,Madrid,3,33.9,29.9,8,Too hot,2
+1989,Madrid,3,32.2,36.2,8,Too hot,2
+1991,Madrid,3,33.2,32.9,7,Warm,1
+1992,Madrid,3,31.3,33.7,6,Warm,1
+2005,Madrid,3,34.0,27.3,9,Too hot,2
+2010,Madrid,3,33.6,28.1,9,Too hot,2
+2014,Madrid,3,26.4,45.6,7,Warm,1
+2030,Madrid,3,27.4,54.1,7,Warm,1
+2038,Madrid,3,34.1,26.3,8,Too hot,2
+2040,Madrid,3,34.4,24.5,9,Too hot,2
+2041,Madrid,3,34.2,24.2,9,Too hot,2
+2042,Madrid,3,34.1,24.3,9,Too hot,2
+2043,Madrid,3,33.6,23.4,9,Too hot,2
+2044,Madrid,3,23.1,55.3,5,Not warm / OK,0
+2045,Madrid,3,33.3,24.2,9,Too hot,2
+2049,Madrid,3,34.8,23.5,9,Too hot,2
+2052,Madrid,3,31.4,22.0,5,Not warm / OK,0
+2053,Madrid,3,34.6,23.7,9,Too hot,2
+2054,Madrid,3,30.4,25.4,9,Too hot,2
+2056,Madrid,3,29.7,27.5,8,Too hot,2
+2066,Madrid,3,28.6,24.9,5,Not warm / OK,0
+2068,Madrid,3,32.1,24.0,9,Too hot,2
+2070,Madrid,3,24.7,29.7,6,Warm,1
+2072,Madrid,3,35.1,23.2,9,Too hot,2
+2073,Madrid,3,34.6,21.2,9,Too hot,2
+2084,Madrid,3,34.5,23.2,9,Too hot,2
+2088,Madrid,3,29.7,29.9,8,Too hot,2
+2091,Madrid,3,34.5,23.7,9,Too hot,2
+2094,Madrid,3,27.3,31.0,5,Not warm / OK,0
+2095,Madrid,3,26.4,33.6,5,Not warm / OK,0
+2096,Madrid,3,25.6,33.8,5,Not warm / OK,0
+2098,Madrid,3,25.0,34.5,4,Not warm / OK,0
+2102,Madrid,3,28.9,24.3,5,Not warm / OK,0
+2103,Madrid,3,27.3,25.2,5,Not warm / OK,0
+2104,Madrid,3,30.1,24.2,8,Too hot,2
+2110,Madrid,3,29.5,28.2,8,Too hot,2
+2111,Madrid,3,18.6,87.2,5,Not warm / OK,0
+31,Warsaw,2,24.7,57.8,4,Not warm / OK,0
+92,Warsaw,2,26.2,43.4,8,Too hot,2
+106,Warsaw,2,27.2,54.2,8,Too hot,2
+110,Warsaw,2,24.5,57.5,5,Not warm / OK,0
+133,Warsaw,2,20.5,74.9,7,Warm,1
+248,Warsaw,2,24.2,40.3,6,Warm,1
+250,Warsaw,2,23.9,43.2,5,Not warm / OK,0
+251,Warsaw,2,21.9,43.1,5,Not warm / OK,0
+252,Warsaw,2,21.0,46.5,3,Not warm / OK,0
+255,Warsaw,2,20.1,49.7,3,Not warm / OK,0
+259,Warsaw,2,23.9,48.8,7,Warm,1
+261,Warsaw,2,26.0,43.9,6,Warm,1
+267,Warsaw,2,26.8,38.4,5,Not warm / OK,0
+269,Warsaw,2,25.1,39.1,5,Not warm / OK,0
+275,Warsaw,2,24.8,47.3,5,Not warm / OK,0
+286,Warsaw,2,26.9,46.5,6,Warm,1
+287,Warsaw,2,26.6,42.2,5,Not warm / OK,0
+336,Warsaw,2,32.0,41.6,8,Too hot,2
+347,Warsaw,2,21.7,82.1,5,Not warm / OK,0
+348,Warsaw,2,20.5,85.5,5,Not warm / OK,0
+353,Warsaw,2,25.2,52.1,6,Warm,1
+354,Warsaw,2,25.1,51.3,5,Not warm / OK,0
+369,Warsaw,2,25.6,47.8,5,Not warm / OK,0
+371,Warsaw,2,24.8,50.0,5,Not warm / OK,0
+388,Warsaw,2,25.3,52.4,5,Not warm / OK,0
+532,Warsaw,2,23.3,53.6,5,Not warm / OK,0
+598,Warsaw,2,24.0,47.9,5,Not warm / OK,0
+600,Warsaw,2,24.2,46.3,5,Not warm / OK,0
+624,Warsaw,2,24.1,48.3,5,Not warm / OK,0
+638,Warsaw,2,24.3,53.0,5,Not warm / OK,0
+729,Warsaw,2,28.0,52.2,7,Warm,1
+782,Warsaw,2,27.2,61.5,5,Not warm / OK,0
+813,Warsaw,2,26.8,62.4,5,Not warm / OK,0
+835,Warsaw,2,31.0,32.0,8,Too hot,2
+1068,Madrid,2,28.6,29.5,8,Too hot,2
+1080,Madrid,2,29.2,38.6,7,Warm,1
+1081,Madrid,2,29.7,35.1,8,Too hot,2
+1104,Madrid,2,35.4,51.0,8,Too hot,2
+1147,Madrid,2,34.5,31.0,7,Warm,1
+1159,Madrid,2,33.5,38.2,8,Too hot,2
+1161,Madrid,2,28.6,31.4,8,Too hot,2
+1259,Madrid,2,29.6,40.2,6,Warm,1
+1296,Madrid,2,31.0,27.4,9,Too hot,2
+1297,Madrid,2,33.6,29.5,9,Too hot,2
+1298,Madrid,2,32.0,24.9,8,Too hot,2
+1315,Madrid,2,28.9,38.3,8,Too hot,2
+1316,Madrid,2,29.8,35.5,8,Too hot,2
+1339,Madrid,2,29.8,38.0,6,Warm,1
+1516,Madrid,2,34.3,28.1,3,Not warm / OK,0
+1570,Madrid,2,32.2,38.1,9,Too hot,2
+1610,Madrid,2,35.5,28.5,9,Too hot,2
+1637,Madrid,2,32.0,22.5,5,Not warm / OK,0
+1647,Madrid,2,30.2,28.8,6,Warm,1
+1687,Madrid,2,25.2,31.5,5,Not warm / OK,0
+1688,Madrid,2,26.3,33.5,5,Not warm / OK,0
+1773,Madrid,2,28.7,28.4,7,Warm,1
+1796,Madrid,2,30.6,26.9,6,Warm,1
+1909,Madrid,2,28.1,27.2,5,Not warm / OK,0
+1919,Madrid,2,28.4,27.0,5,Not warm / OK,0
+1947,Madrid,2,29.1,38.2,8,Too hot,2
+1953,Madrid,2,29.1,34.6,8,Too hot,2
+2074,Madrid,2,29.2,33.2,9,Too hot,2

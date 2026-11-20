@@ -1,0 +1,5 @@
+model,cv_macro_f1_mean,cv_macro_f1_std,best_params
+majority_baseline,0.1755736304329575,0.0013705695100542875,{}
+ordinal_logistic,0.6174653223284812,0.05299922454922797,{}
+random_forest,0.6217324806034376,0.041862601675406244,"{""max_depth"": 6, ""min_samples_leaf"": 1}"
+xgboost,0.6229113817859979,0.04444422911964563,"{""learning_rate"": 0.1, ""max_depth"": 3, ""n_estimators"": 200, ""subsample"": 0.8}"

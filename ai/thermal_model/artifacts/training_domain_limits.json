@@ -1,0 +1,10 @@
+{
+  "temperature_c": {
+    "min": 17.8,
+    "max": 39.7
+  },
+  "relative_humidity": {
+    "min": 12.0,
+    "max": 87.2
+  }
+}

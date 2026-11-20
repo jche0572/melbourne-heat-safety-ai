@@ -1,0 +1,5 @@
+model,cv_macro_f1,best_params
+Random Forest,0.7690673661646743,"{'max_depth': 8, 'max_features': 'sqrt', 'min_samples_leaf': 3, 'n_estimators': 600}"
+RBF-SVM,0.767446425501911,"{'model__C': 10, 'model__gamma': 0.1}"
+Logistic Regression,0.7555669735344972,{'model__C': 1}
+Majority Baseline,0.40879661404712886,{}

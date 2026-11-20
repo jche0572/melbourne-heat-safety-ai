@@ -1,0 +1,9 @@
+{
+  "selected_feature_set": "V4",
+  "selected_model": "ordinal_logistic",
+  "reasons": [
+    "Compared only training OOF predictions from identical folds.",
+    "Rejected configurations that materially degraded BA, MAE, Brier, worst-city F1, or Warm recall/F1 versus the same model's V1 (0.02 tolerance).",
+    "Near-equal candidates were resolved in favour of the simplest feature set and model."
+  ]
+}

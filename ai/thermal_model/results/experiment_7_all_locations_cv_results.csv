@@ -1,0 +1,5 @@
+model,cv_macro_f1_mean,cv_macro_f1_std,best_params
+Random Forest,0.5973611407476658,,"{'max_depth': 10, 'max_features': 'sqrt', 'min_samples_leaf': 5, 'n_estimators': 600}"
+RBF SVM,0.5695557936874474,,"{'model__C': 0.3, 'model__gamma': 'scale'}"
+Ordinal Logistic,0.5511768117940917,0.026752692471042255,{}
+Majority baseline,0.20175412028974535,0.00018676964236137296,{}

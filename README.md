@@ -18,7 +18,14 @@ Melbourne heatwaves and high UV can make routine trips harder for older adults. 
 
 ## Screenshots
 
-App captures are pending review. The intended gallery files are `assets/screenshots/home.png`, `assets/screenshots/cooling-map.png`, `assets/screenshots/activity-recommendation.png`, and `assets/screenshots/heat-smart-learning.png`; see [screenshot notes](assets/screenshots/README.md).
+<p align="center">
+  <img src="assets/screenshots/home.png" width="23%" alt="Home" />
+  <img src="assets/screenshots/cooling-map.png" width="23%" alt="Nearby cooling map" />
+  <img src="assets/screenshots/activity-planner.png" width="23%" alt="Heat-aware activity planner" />
+  <img src="assets/screenshots/heat-smart-learning.png" width="23%" alt="Heat Smart Learning" />
+</p>
+
+*Home · Nearby cooling map · Heat-aware activity planner · Heat Smart Learning. Captured from the web build running locally without the live backend, so weather values show as unavailable.*
 
 ![Melbourne CBD home artwork](assets/home-melbourne-cbd.png)
 ![Melbourne river home artwork](assets/home-melbourne-river.png)
@@ -57,7 +64,7 @@ ai/thermal_model/   Python prediction API, model, notebooks, and experiments
 database/           PostgreSQL/PostGIS schema and import scripts
 data/               Sample spatial data and validation scripts
 docs/               Sanitized team notes and integration testing notes
-assets/             Brand and home artwork; screenshot slots
+assets/             Brand artwork and app screenshots
 ```
 
 ## Run locally
@@ -67,7 +74,7 @@ assets/             Brand and home artwork; screenshot slots
 3. For thermal predictions, install the dependencies listed in `ai/thermal_model/requirements.txt` plus Flask, then run `python app.py` from `ai/thermal_model/`. The Python API listens on **5001** and loads `artifacts/experiment_5_historical_weather/selected_model.joblib`.
 4. Copy `mobile/.env.example` to `mobile/.env`, set the API URL and Google Maps keys, run `npm ci` in `mobile/`, then `npm run web` or `npm run start` (Expo). For a physical device, set `EXPO_PUBLIC_API_BASE_URL` to a backend address reachable from that device.
 
-Local functionality depends on database data and external API credentials. The saved artwork and code are included, while the four screenshot captures are still pending.
+Local functionality depends on database data and external API credentials.
 
 ## Tech stack
 
@@ -95,7 +102,14 @@ React Native, Expo, React Native Web, Node.js, Express, PostgreSQL, PostGIS, pgv
 
 ## 应用截图
 
-截图待人工审阅后添加。预留文件为 `assets/screenshots/home.png`、`assets/screenshots/cooling-map.png`、`assets/screenshots/activity-recommendation.png` 和 `assets/screenshots/heat-smart-learning.png`；详情见[截图说明](assets/screenshots/README.md)。
+<p align="center">
+  <img src="assets/screenshots/home.png" width="23%" alt="首页" />
+  <img src="assets/screenshots/cooling-map.png" width="23%" alt="附近避暑地图" />
+  <img src="assets/screenshots/activity-planner.png" width="23%" alt="高温活动规划" />
+  <img src="assets/screenshots/heat-smart-learning.png" width="23%" alt="Heat Smart Learning" />
+</p>
+
+*首页 · 附近避暑地图 · 高温活动规划 · Heat Smart Learning。截图来自本地运行的 Web 版，未连接线上后端，因此天气数据显示为不可用。*
 
 ![墨尔本 CBD 首页插画](assets/home-melbourne-cbd.png)
 ![墨尔本河岸首页插画](assets/home-melbourne-river.png)
@@ -134,7 +148,7 @@ ai/thermal_model/   Python 预测 API、模型、Notebook 与实验
 database/           PostgreSQL/PostGIS 结构与导入脚本
 data/               示例空间数据与验证脚本
 docs/               已清理的团队说明与集成测试说明
-assets/             品牌和首页插画、截图占位
+assets/             品牌插画与应用截图
 ```
 
 ## 本地运行
@@ -144,7 +158,7 @@ assets/             品牌和首页插画、截图占位
 3. 如需热感觉预测，安装 `ai/thermal_model/requirements.txt` 列出的依赖及 Flask，再从 `ai/thermal_model/` 运行 `python app.py`。Python API 监听 **5001**，并加载 `artifacts/experiment_5_historical_weather/selected_model.joblib`。
 4. 把 `mobile/.env.example` 复制为 `mobile/.env`，设置 API 地址与 Google Maps 密钥，在 `mobile/` 中运行 `npm ci`，然后运行 `npm run web` 或 `npm run start`。在真机上，`EXPO_PUBLIC_API_BASE_URL` 必须是设备能够访问的后端地址。
 
-本地完整功能依赖数据库数据和外部 API 凭据。代码与插画已包含，四张应用截图仍待补充。
+本地完整功能依赖数据库数据和外部 API 凭据。
 
 ## 技术栈
 
